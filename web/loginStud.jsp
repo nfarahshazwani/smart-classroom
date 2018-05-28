@@ -38,7 +38,7 @@
                 <div class="middle">
                                   
         
-            <form action="attendanceCodeStud.jsp" method="post">
+            <form action="loginServlet" method="post">
             
                 <h1>Sign In</h1>
                 
